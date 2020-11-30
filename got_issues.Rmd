@@ -20,7 +20,7 @@ summary(storms) #fixed data name
 
 Look at the variable names: 
 ```{r}
-Names(storms)
+names(storms) #fixed function
 ```
 
 ## Step 2: Exploratory visualization
